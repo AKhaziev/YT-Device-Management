@@ -1,3 +1,3 @@
-print("some string");
+print("some string aloha");
 print("other string");
 
